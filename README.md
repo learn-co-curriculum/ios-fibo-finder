@@ -32,7 +32,7 @@ Take a moment now (or save it for a study break later) to read about the [histor
 
 ## Instructions
 
-Open the `ios-fibo-finder.xcworkspace` file.
+Open the `FibofFnder.xcworkspace` file.
 
 1. Navigate to the `FISAppDelegate.h` header file. Declare one method called `arrayWithFibonacciSequenceToIndex:` which takes one `NSUInteger` argument called `index` and returns an `NSArray`.
 
@@ -60,3 +60,5 @@ Open the `ios-fibo-finder.xcworkspace` file.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ios-fibo-finder' title='Fibonacci Finder'>Fibonacci Finder</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ios-fibo-finder'>Fibonacci Finder</a> on Learn.co and start learning to code for free.</p>
